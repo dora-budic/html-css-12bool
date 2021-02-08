@@ -1,0 +1,19 @@
+.container {
+  background-color: #FFC9E0;
+}
+
+[class*="col-"] {
+  height: calc(1170px / 24);
+}
+
+.bg-black {
+  background-color: #000000;
+}
+
+.bg-blue {
+  background-color: #428CF5;
+}
+
+.bg-lightblue {
+  background-color: #82B6FF;
+}
